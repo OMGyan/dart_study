@@ -1,4 +1,4 @@
- 
+//dart String类型示例
 void main(){
     /**
     * String(字符串)创建示例
