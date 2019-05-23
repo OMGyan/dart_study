@@ -1,4 +1,4 @@
-//for循环语句示例
+// for循环语句示例
 void main(){
   var list = [23,'j',24,'k'];
   for(var i = 0;i < list.length;i++){
