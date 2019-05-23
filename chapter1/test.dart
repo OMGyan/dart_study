@@ -1,3 +1,4 @@
+//dart 变量与常量示例
 void main(){
     /**以下为dart变量实例 */
     // var a;
