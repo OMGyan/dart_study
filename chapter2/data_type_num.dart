@@ -24,10 +24,10 @@ void main() {
   print(b+c);
   print(b-c);
   print(b*c);
-  print(b/c);
-  print(b~/c);
+  print(b/c); //结果为double
+  print(b~/c);//取除法结果整数部分
   print(b%c);
-  print(0.0/0.0);
+  print(0.0/0.0); //结果为NaN
 
   print(b.isEven);//是否是偶数
   print(b.isOdd);//是否是奇数
