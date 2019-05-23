@@ -12,7 +12,7 @@
  * int 整型
  * double 浮点型
  */
-
+//number类型示例
 void main() {
   num a = 1;
   a = 1.1;
