@@ -1,3 +1,4 @@
+//dart dynamic类型示例
 void main(){
     //dynamic为可变类型
     dynamic a = 20;
