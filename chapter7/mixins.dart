@@ -40,9 +40,13 @@ class C{
   }
 }
 
-class D extends A with B , C{
+// class D extends A with B , C{
 
-}
+// }
+
+class D = A with B , C;
+
+
 
 abstract class Engine{
   void work();
